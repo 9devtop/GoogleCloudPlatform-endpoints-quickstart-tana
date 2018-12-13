@@ -25,7 +25,7 @@ paths:
   "/tanatanhName":
     get:
       description: "Get the airport name for a given IATA code."
-      operationId: "airportName"
+      operationId: "tanatanhName"
       parameters:
         -
           name: iataCode
